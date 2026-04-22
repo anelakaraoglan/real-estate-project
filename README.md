@@ -39,9 +39,6 @@ project-folder/
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
-## Live Demo
-
-(You can add your GitHub Pages link here after publishing)
 
 ## Author
 
